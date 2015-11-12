@@ -1,5 +1,11 @@
 == README
 
+THIS IS OUR FIRST RAILS APPLCATION. ISN'T IT AWESOME.
+
+WE ARE EDITING THE README, BECAUSE WE ARE SOOOOO CLEVER. 
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
